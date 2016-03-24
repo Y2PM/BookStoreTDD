@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreTDDbyjsb", "BookStoreTDDbyjsb\BookStoreTDDbyjsb.csproj", "{60296B2D-3CD1-4FFF-A782-9B20FC2EC689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStoreTest", "BasketTest\BookStoreTest.csproj", "{92ADFE31-63DF-483A-B47F-42DE628A60BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60296B2D-3CD1-4FFF-A782-9B20FC2EC689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60296B2D-3CD1-4FFF-A782-9B20FC2EC689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60296B2D-3CD1-4FFF-A782-9B20FC2EC689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60296B2D-3CD1-4FFF-A782-9B20FC2EC689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92ADFE31-63DF-483A-B47F-42DE628A60BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92ADFE31-63DF-483A-B47F-42DE628A60BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92ADFE31-63DF-483A-B47F-42DE628A60BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92ADFE31-63DF-483A-B47F-42DE628A60BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
